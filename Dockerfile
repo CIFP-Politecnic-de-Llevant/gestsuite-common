@@ -3,5 +3,5 @@ FROM maven:amazoncorretto
 
 WORKDIR /resources
 
-COPY /api/gestsuite-common/pom.xml .
+COPY ./pom.xml .
 RUN mvn clean compile install package -f pom.xml
