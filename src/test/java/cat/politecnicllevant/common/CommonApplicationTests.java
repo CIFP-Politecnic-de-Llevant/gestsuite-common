@@ -1,4 +1,4 @@
-package cat.iesmanacor.common;
+package cat.politecnicllevant.common;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

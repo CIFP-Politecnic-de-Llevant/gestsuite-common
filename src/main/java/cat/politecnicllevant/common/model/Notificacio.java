@@ -1,4 +1,4 @@
-package cat.iesmanacor.common.model;
+package cat.politecnicllevant.common.model;
 
 public class Notificacio {
 

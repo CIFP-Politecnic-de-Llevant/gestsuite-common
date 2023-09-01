@@ -1,4 +1,4 @@
-package cat.iesmanacor.common.service;
+package cat.politecnicllevant.common.service;
 
 import java.util.*;
 
