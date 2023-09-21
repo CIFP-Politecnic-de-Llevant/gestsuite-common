@@ -9,7 +9,6 @@ public class UtilService {
         if(str==null || str.isEmpty()){
             return "";
         }
-
         String[] excepcions = {"da", "de", "di", "do", "del", "la", "las", "le", "los", "mac", "mc", "van", "von", "y", "i", "san", "santa","al","el"};
         List<String> excepcionsList = Arrays.asList(excepcions);
 
